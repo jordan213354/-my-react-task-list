@@ -1,0 +1,49 @@
+.App input {
+    width: 400px;
+    padding: 20px;
+
+    margin-bottom: 63px;
+}
+
+.App button {
+    width: 100px;
+    background-color: #898dee;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.App {
+    color: #505694;
+    padding: 100px;
+    margin-left: 850px;
+    background-color: #212647;
+}
+
+body {
+    background-color: #cccbff;
+}
+
+.App table th {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.App table {
+    background-color: #898dee;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.App table tbody {
+    color: #212647;
+    font-size: 30px;
+
+}
+
+.App table tbody td {
+    background-color: #505694;
+    margin: 22px;
+    text-align: center;
+    align-items: center;
+}
