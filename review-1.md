@@ -1,0 +1,1 @@
+Hola soy jordan, hoy vengo a presentarles mi lista de tareas. es una lista de tareas basica donde podremos guardar, borrar y actualizar nuestras tareas. un color dinamico y creativo de una paleta dew colores muy bella.
